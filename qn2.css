@@ -1,0 +1,16 @@
+#image {
+    float: right;
+    margin-top: 40px;
+    }
+body {
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(31, 28, 28);
+    border-radius: 6px;
+    padding: 5px;
+    margin: 50px;
+    
+  }
+img {
+    width: 100px;    
+}
